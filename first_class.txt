@@ -1,2 +1,3 @@
 This is the first class of git
 I have studied how to commit file and add file and initation git 
+Then I studied the git status command to know the status of the files
