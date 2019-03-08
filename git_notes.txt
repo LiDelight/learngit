@@ -7,5 +7,6 @@ git 学习笔记:
     git log --pretty=oneline
     git reflog
     git status 查看版本的工作区和状态
+    git diff <file> -- <file1>
     git test
     
