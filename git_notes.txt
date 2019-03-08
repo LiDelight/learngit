@@ -1,0 +1,10 @@
+git 学习笔记:
+    git init 初始化一个git仓库
+    git add <file> 添加文件到git仓库
+    git commit -m <message> 提交到git仓库
+    git reset --hard (版本号/HEAD~1/HEAD^^)
+    git log
+    git log --pretty=oneline
+    git relog
+
+    
