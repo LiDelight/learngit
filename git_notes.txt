@@ -5,7 +5,7 @@ git 学习笔记:
     git reset --hard (版本号/HEAD~1/HEAD^^)
     git log
     git log --pretty=oneline
-    git relog
+    git reflog
     git status 查看版本的工作区和状态
     git test
     
