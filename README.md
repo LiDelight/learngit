@@ -1,5 +1,38 @@
-## learngit
-#the learning notes is made by the course of liaoxuefeng blog
-some contents is lacked:
-    taged the branch
-    DIY the git
+# markdown 学习笔记
+
+## 标题
+* \#
+
+* \##
+
+* \###
+## 列表
+* _, *, + 都可以代表无序列表
+* 1. 2. 3. 4. 5. 6.
+## 区块引用
+> dasd
+> > dasd
+## 分割线
+---
+## 链接
+[sda]:(https://images2015.cnblogs.com/blog/600165/201701/600165-20170121171919343-1747027523.png)
+[sda]
+## 图片
+![sda]
+## 代码框
+* 单行代码: ''
+* 多行代码: ''' '''
+## 表格
+|name|age|sex|
+|:----:|:---|---:|
+|tony|20 |male|
+|lucy|18| female|
+
+
+## 强调
+*italic*
+**BOlD**
+## 转义
+\!
+
+\*
