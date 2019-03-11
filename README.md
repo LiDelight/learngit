@@ -27,8 +27,8 @@
 |:----:|:---|---:|
 |tony|20 |male|
 |lucy|18| female|
-
-
+a{/bold e}
+$$c^2$$
 ## 强调
 *italic*
 **BOlD**
